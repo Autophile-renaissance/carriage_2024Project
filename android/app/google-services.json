@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577068968134",
+    "project_id": "carriage-app",
+    "storage_bucket": "carriage-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577068968134:android:02a25b043981e224254fc7",
+        "android_client_info": {
+          "package_name": "com.example.carriage_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhTrZm3p0mm2ipmmMeU6A7sYy9rFN0cP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
